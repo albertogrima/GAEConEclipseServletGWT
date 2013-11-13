@@ -1,0 +1,2 @@
+serviceClass: com.GAE.GWT.client.GreetingService
+path: A6BF220FE7384DE6FCBC676F4CDE7478.gwt.rpc
